@@ -5,7 +5,7 @@ name: Post welcome comment
 permissions:
   pull-requests: write
 jobs:
- welcome:
+  welcome:
     name: Post welcome comment
     runs-on: ubuntu-latest
     steps:
